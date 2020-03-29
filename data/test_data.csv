@@ -1,0 +1,7 @@
+,carat,cut,color,clarity,depth,table,x,y,z
+big_diamond_ideal_cut,1.71,Ideal,D,SI2,63.8,61.0,7.67,7.65,4.73
+big_diamond_good_cut,1.71,Good,D,SI2,63.8,61.0,7.67,7.65,4.73
+big_diamond_fair_cut,1.71,Fair,D,SI2,63.8,61.0,7.67,7.65,4.73
+big_light_diamond,0.1,Fair,H,VVS1,15,50,30,30,30
+small_light_diamond,0.1,Fair,H,VVS1,15,50,3,3,3
+big_diamond_ideal_cut_smaller,1.71,Ideal,D,SI2,63.8,61.0,7.57,7.55,4.63
