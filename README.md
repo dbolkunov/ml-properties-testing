@@ -11,7 +11,7 @@ This approach can help to find
 2. biasses in the train dataset
 3. flaws of used metric
 
-More details can be found in this [article]().
+More details can be found in this [article](https://medium.com/@d.bolkunov/testing-properties-of-machine-learning-models-1b9745bca48e).
 
 ## Installation
 1. Install [Anaconda](https://docs.anaconda.com/anaconda/install/)
